@@ -10,3 +10,7 @@
 ```
 print("Testing testing 123")
 ```
+
+- [ ] Finish Markdown tutorial
+- [ ] Conquer world
+
