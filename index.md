@@ -6,3 +6,7 @@
 ###### H6 test
 
 ![Test image insertion of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+print("Testing testing 123")
+```
